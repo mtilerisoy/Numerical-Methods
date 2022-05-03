@@ -1,0 +1,5 @@
+Eigenvalue#1:0
+nan
+nan
+nan
+Eigenvalue#2:0
